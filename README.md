@@ -1,4 +1,4 @@
-# A-secure-simple-distributed-storage-based-on-Chord
+# A-secure-distributed-storage-based-on-Chord
 
 In this project, I have implemented Chord the paper describing the Chord protocol, algorithms, and implementation, which is available at the following URL:
 http://www.cs.berkeley.edu/~istoica/papers/2003/chord-ton.pdfLinks to an external site.
